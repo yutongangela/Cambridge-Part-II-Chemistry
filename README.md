@@ -1,7 +1,7 @@
 # Cambridge-Part-II-Chemistry
 Here is a non-exausitive compilation of sources I find useful for the 3rd year chemistry course at University of Cambridge. 
 
-The Course Guide for 2020/21 can be accessed here https://www.ch.cam.ac.uk/teaching/files/guides/Part%20II%20Handbookv2_2020_21.pdf 
+Curious about what do the course codes refer to, or how 3rd year chemistry is taught at Cambridge? Check the Course Guide for 2020/21 here https://www.ch.cam.ac.uk/teaching/files/guides/Part%20II%20Handbookv2_2020_21.pdf 
 
 ## Organic
 
