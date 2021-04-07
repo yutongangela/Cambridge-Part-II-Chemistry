@@ -6,6 +6,15 @@ Curious about what the course codes referring to, or how 3rd year chemistry is s
 ## Organic
 
 
+Additional Practice Questions:
+Fukuyama Group:
+http://www.f.u-tokyo.ac.jp/~fukuyama/gmproblems.htm
+Donohoe Group:
+http://donohoe.chem.ox.ac.uk/page3/index.html
+Trauner Group
+https://www.traunergroup.org/denksport
+Princeton Organic Mechanism Club:
+https://www.princeton.edu/~orggroup/problems.html
 
 ## Chemical Biology
 
